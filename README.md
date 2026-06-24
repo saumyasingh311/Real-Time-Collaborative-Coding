@@ -1,8 +1,8 @@
-# Sync Code: Realtime Collaborative Code Editor
+CO-Code Realtime Collaborative Coding 
 
 ## Introduction
 
-Are you tired of sending code snippets back and forth, struggling to debug and collaborate with your team? Look no further! **Sync Code** is here to revolutionize the way you code together. This powerful and intuitive collaborative code editor is designed to empower developers, and teams to work seamlessly in real-time, regardless of their location. With **Sync Code**, you can code together, debug together, and ship faster, together.
+Are you tired of sending code snippets back and forth, struggling to debug and collaborate with your team? Look no further! **Co-Code** is here to revolutionize the way you code together. This powerful and intuitive collaborative code editor is designed to empower developers, and teams to work seamlessly in real-time, regardless of their location. With **Co-Code**, you can code together, debug together, and ship faster, together.
 
 ## Features
 
